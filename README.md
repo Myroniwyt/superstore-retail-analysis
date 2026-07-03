@@ -13,20 +13,24 @@ This project analyzes Superstore retail data using Power BI, SQL, and Python. Th
 
 ## Dashboard Preview
 
+### Overview Dashboard
 ![Overview Dashboard](dashboard/Overview.png)
 
+### Product Analysis
 ![Product Analysis](dashboard/Product%20Analysis.png)
 
+### Regional & Customer Analysis
 ![Regional Customer Analysis](dashboard/Regional%20%26%20Customer%20Analysis.png)
 
+### Sales Forecasting
 ![Sales Forecasting](dashboard/Forecasting.png)
 
 ## Project Files
 - `dashboard/` - Power BI dashboard files and dashboard screenshots
-- `data/` - Dataset used for analysis
+- `data/` - Original and cleaned Superstore datasets
 - `sql/` - SQL queries used for analysis
-- `notebooks/` - Jupyter notebook analysis
-- `outputs/` - Output files and exported results
+- `notebooks/` - Jupyter notebooks for data cleaning and forecasting
+- `outputs/` - Forecasting output and SQL result screenshots
 
 ## Key Analysis Areas
 - Sales performance
@@ -34,7 +38,16 @@ This project analyzes Superstore retail data using Power BI, SQL, and Python. Th
 - Product category and sub-category analysis
 - Regional performance
 - Customer segment analysis
+- Discount impact analysis
+- Shipping analysis
 - Sales forecasting
 
+## Key Insights
+- Sales and profit performance vary across product categories and regions.
+- Some sub-categories generate weak profit performance and need further business review.
+- Discount levels can affect profitability.
+- Regional and customer segment analysis helps identify stronger and weaker business areas.
+- Sales forecasting provides an estimated future sales trend based on historical data.
+
 ## Conclusion
-This project provides business insights from Superstore retail data and presents the results through interactive Power BI dashboards and supporting analysis files.
+This project presents a complete retail data analysis workflow using SQL, Python, and Power BI. The final dashboards summarize business performance and provide insights into sales, profit, customers, products, regions, and forecasting.

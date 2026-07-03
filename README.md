@@ -13,17 +13,13 @@ This project analyzes Superstore retail data using Power BI, SQL, and Python. Th
 
 ## Dashboard Preview
 
-### Overview Dashboard
-![Overview Dashboard](dashboard/images/overview.png)
+![Overview Dashboard](dashboard/Overview.png)
 
-### Product Analysis
-![Product Analysis](dashboard/images/product_analysis.png)
+![Product Analysis](dashboard/Product%20Analysis.png)
 
-### Regional & Customer Analysis
-![Regional Customer Analysis](dashboard/images/regional_customer_analysis.png)
+![Regional Customer Analysis](dashboard/Regional%20%26%20Customer%20Analysis.png)
 
-### Sales Forecasting
-![Sales Forecasting](dashboard/images/forecasting.png)
+![Sales Forecasting](dashboard/Forecasting.png)
 
 ## Project Files
 - `dashboard/` - Power BI dashboard files and dashboard screenshots
